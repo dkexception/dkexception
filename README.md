@@ -1,5 +1,5 @@
 # Hello, folks!
-My name is Dhanesh Katre and I'm an Android Developer. I'm from India and currently working for ![Deutsche Telekom](https://img.shields.io/badge/Deutsche%20Telekom-E20074.svg?style=flat-square&logo=tmobile&logoColor=white)
+My name is Dhanesh Katre, and I'm an Android Developer. I'm from India and currently working for ![Deutsche Telekom](https://img.shields.io/badge/Deutsche%20Telekom-E20074.svg?style=flat-square&logo=tmobile&logoColor=white)
 
 ## 💻 Tech Stack
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=white)
@@ -31,18 +31,7 @@ My name is Dhanesh Katre and I'm an Android Developer. I'm from India and curren
 ## 🌐 Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://dkexception.medium.com)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dkexception&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dkexception&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dkexception&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dkexception&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4) -->
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dkexception&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=dkexception&icon=5&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with [GPRM](https://gprm.itsvg.in) -->
